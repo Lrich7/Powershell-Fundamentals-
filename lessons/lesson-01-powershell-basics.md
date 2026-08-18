@@ -3,12 +3,13 @@
 1. Introduction to PowerShell
 
 Briefly explain:
+*What PowerShell is
+*What administrators use it for
+*PowerShell vs Command Prompt
+*PowerShell vs Windows PowerShell 5.1
+*Why PowerShell is useful for IT administration
 
-What PowerShell is
-What administrators use it for
-PowerShell vs Command Prompt
-PowerShell vs Windows PowerShell 5.1
-Why PowerShell is useful for IT administration
+
 
 2. Opening PowerShell
 
