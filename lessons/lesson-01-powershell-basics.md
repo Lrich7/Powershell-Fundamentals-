@@ -218,7 +218,7 @@ In this lesson, you learned:
 
 Ready to practice?
 
-➡️ [Lab 01 — PowerShell Basics](../labs/lab-01-powershell-basics.md)
+➡️ [Lab 01 — PowerShell Basics](../labs/lesson-01-lab-01-powershell-basics.md)
 
 
 
