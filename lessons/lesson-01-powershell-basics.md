@@ -5,14 +5,15 @@
 
 By the end of this lesson you should be able to:
 
-**Explain what PowerShell is and how it is used in IT administration.
-Identify the PowerShell version running on your computer.
-Understand the basic Verb-Noun structure of PowerShell commands.
-Run basic PowerShell cmdlets and use simple parameters.
-Navigate files and folders from the PowerShell command line.
-Use tab completion and command history to work more efficiently.
-Recognize the difference between commands that retrieve information and commands that make changes.
-Understand at a basic level that PowerShell works with objects, not just text output.**
+- Explain what PowerShell is and how it is used in IT administration.
+- Identify the PowerShell version running on your computer.
+- Understand the basic Verb-Noun structure of PowerShell commands.
+- Run basic PowerShell cmdlets and use simple parameters.
+- Navigate files and folders from the PowerShell command line.
+- Use tab completion and command history to work more efficiently.
+- Recognize the difference between commands that retrieve information and commands that make changes.
+- Understand at a basic level that PowerShell works with objects, not just text output.**
+
 ---
 
 1. Introduction to PowerShell
