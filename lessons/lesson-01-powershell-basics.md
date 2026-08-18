@@ -200,7 +200,25 @@ Commands beginning with Get are generally safe for exploration because they're r
 
 
 
+# Summary
 
+In this lesson, you learned:
+
+- What PowerShell is
+- How PowerShell commands are structured
+- How to run basic cmdlets
+- How parameters modify commands
+- How to navigate the file system
+- How to use tab completion
+- How to view command history
+- The basics of PowerShell objects
+- Basic PowerShell safety
+
+## Hands-On Lab
+
+Ready to practice?
+
+➡️ [Lab 01 — PowerShell Basics](../labs/lab-01-powershell-basics.md)
 
 
 
