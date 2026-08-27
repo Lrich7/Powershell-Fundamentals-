@@ -775,7 +775,7 @@ This demonstrates remoting without modifying the target systems.
 
 Continue to:
 
-[Lab 18 --- PowerShell Remoting](../labs/lab-18-remoting.md)
+[Lab 18 — Remoting](../labs/lesson-18-lab-18-remoting.md)
 
 The lab should be completed only in an approved environment where
 PowerShell remoting is already configured or where you are authorized to
