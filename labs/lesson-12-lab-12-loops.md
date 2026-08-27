@@ -392,4 +392,5 @@ index.
 
 Continue to:
 
-[Lab 13 --- Conditions](lab-13-conditions.md)
+[Lesson 13 — Conditions](../lessons/lesson-13-conditions.md)
+
