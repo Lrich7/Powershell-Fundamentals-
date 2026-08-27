@@ -232,4 +232,6 @@ ____________________________________________________
 
 ## Project Complete
 
-Continue with Lessons 20--22 before beginning the final project.
+Continue to:
+
+[Lesson 20 — Active Directory](../lessons/lesson-20-active-directory.md)
