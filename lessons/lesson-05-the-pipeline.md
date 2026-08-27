@@ -889,7 +889,7 @@ Ready to practice building PowerShell pipelines?
 
 Continue to:
 
-[Lab 05 --- The Pipeline](../labs/lab-05-the-pipeline.md)
+[Lab 05 — The Pipeline](../labs/lesson-05-lab-05-the-pipeline.md)
 
 In the lab, you will build pipelines one stage at a time, inspect
 pipeline objects, filter and sort results, select properties, count
