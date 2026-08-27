@@ -162,4 +162,7 @@ ____________________________________________________
 
 ## Project Complete
 
-Continue with Lessons 06--10 before beginning Project 02.
+Now continue to the next lesson:
+
+[Lesson 06 — Filtering and Sorting](../lessons/lesson-06--filtering-and-sorting.md)
+
