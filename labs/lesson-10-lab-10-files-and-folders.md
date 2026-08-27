@@ -603,5 +603,9 @@ increasingly realistic administrative tasks.
 
 Continue to:
 
-[Lesson 11 — Working with Data](../lessons/lesson-11-working-with-data.md)
+### [Project 02 — File & Folder Inventory Tool](../projects/project-02-file-folder-inventory.md)
+
+Build a read-only PowerShell tool that inventories files, analyzes file sizes, filters results, and identifies the largest files in a folder.
+
+> **Tip:** Try solving the requirements using what you have learned before looking for outside examples.
 
