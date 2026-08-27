@@ -423,4 +423,5 @@ Use `switch` to produce a separate description based on `DeviceType`.
 
 Continue to:
 
-[Lab 14 --- Functions](lab-14-functions.md)
+[Lesson 14 — Functions](../lessons/lesson-14-functions.md)
+
