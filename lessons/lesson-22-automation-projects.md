@@ -985,7 +985,7 @@ Module packaging
 
 Continue to:
 
-[Lab 22 --- Automation Projects](../labs/lab-22-automation-projects.md)
+[Lab 22 — Automation Projects](../labs/lesson-22-lab-22-automation-projects.md)
 
 The lab serves as a capstone. You will plan and build a small PowerShell
 automation project using parameters, functions, objects, pipelines,
