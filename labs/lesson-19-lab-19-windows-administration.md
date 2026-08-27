@@ -332,4 +332,5 @@ That is part of the lab.
 
 Continue to:
 
-[Lab 20 --- Active Directory](lab-20-active-directory.md)
+[Lesson 20 — Active Directory](../lessons/lesson-20-active-directory.md)
+
