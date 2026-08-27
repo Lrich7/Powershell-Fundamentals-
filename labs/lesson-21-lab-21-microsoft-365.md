@@ -611,4 +611,4 @@ Find and export only shared mailboxes.
 
 Continue to:
 
-[Lab 22 --- Automation Projects](lab-22-automation-projects.md)
+[Lesson 22 — Automation Projects](../lessons/lesson-22-automation-projects.md)
