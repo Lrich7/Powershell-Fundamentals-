@@ -520,4 +520,5 @@ Next, you will go deeper into PowerShell's built-in documentation.
 
 Continue to:
 
-[Lab 03 --- Getting Help](lab-03-getting-help.md)
+[Lesson 03 — Getting Help](../lessons/lesson-03-getting-help.md)
+
