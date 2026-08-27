@@ -589,7 +589,7 @@ What information will help troubleshoot the failure?
 
 Continue to:
 
-[Lab 16 --- Error Handling](../labs/lab-16-error-handling.md)
+[Lab 16 — Error Handling](../labs/lesson-16-lab-16-error-handling.md)
 
 In the lab, you will generate and inspect errors, use `-ErrorAction`,
 build `try`/`catch`/`finally` blocks, validate files and input, use
