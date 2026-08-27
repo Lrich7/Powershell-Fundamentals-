@@ -332,5 +332,9 @@ That is part of the lab.
 
 Continue to:
 
-[Lesson 20 — Active Directory](../lessons/lesson-20-active-directory.md)
+### [Project 04 — Windows Health Check Tool](../projects/project-04-windows-health-check.md)
+
+Build a PowerShell troubleshooting tool that collects useful Windows health information and handles failures safely.
+
+> **Tip:** Don't collect information just because you can. Think about what an IT technician would actually need when troubleshooting a computer.
 
