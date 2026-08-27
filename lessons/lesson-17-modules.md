@@ -684,7 +684,8 @@ is code.
 
 Continue to:
 
-[Lab 17 --- Modules](../labs/lab-17-modules.md)
+[Lab 17 — Modules](../labs/lesson-17-lab-17-modules.md)
+
 
 In the lab, you will identify loaded and available modules, discover
 module commands, import and remove modules, inspect module paths, safely
