@@ -843,8 +843,8 @@ Ready to practice working with PowerShell objects?
 
 Continue to:
 
-[Lab 04 --- Working with
-Objects](../labs/lab-04-working-with-objects.md)
+[Lab 04 — Working with Objects](../labs/lesson-04-lab-04-working-with-objects.md)
+
 
 In the lab, you will inspect objects with `Get-Member`, identify useful
 properties, access properties with dot notation, select information with
