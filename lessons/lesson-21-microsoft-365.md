@@ -577,7 +577,8 @@ changes.
 
 Continue to:
 
-[Lab 21 --- Microsoft 365](../labs/lab-21-microsoft-365.md)
+[Lab 21 — Microsoft 365](../labs/lesson-21-lab-21-microsoft-365.md)
+
 
 The lab should use an authorized Microsoft 365 tenant. It will focus on
 connecting safely, discovering Graph and Exchange commands, retrieving
