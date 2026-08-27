@@ -587,7 +587,7 @@ Ready to practice finding commands?
 
 Continue to:
 
-[Lab 02 --- Finding Commands](../labs/lab-02-finding-commands.md)
+[Lab 02 — Finding Commands](../labs/lesson-02-lab-02-finding-commands.md)
 
 In the lab, you will practice searching for commands, using PowerShell
 Help, reading command syntax, and solving command-discovery challenges
