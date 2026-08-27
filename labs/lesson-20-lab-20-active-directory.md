@@ -374,3 +374,9 @@ practice the object, filtering, reporting, and audit logic safely.
 
 You have moved from PowerShell fundamentals into real administrative
 reporting while keeping the practice safe and auditable.
+
+
+Continue to:
+
+[Lesson 21 — Microsoft 365](../lessons/lesson-21-microsoft-365.md)
+
