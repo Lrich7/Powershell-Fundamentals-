@@ -181,4 +181,7 @@ ____________________________________________________
 
 ## Project Complete
 
-Continue with Lessons 11--15 before beginning Project 03.
+
+Continue to:
+
+[Lesson 11 — Working with Data](../lessons/lesson-11-working-with-data.md)
