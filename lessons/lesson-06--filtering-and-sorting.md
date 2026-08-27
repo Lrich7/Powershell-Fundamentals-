@@ -1057,8 +1057,8 @@ Ready to practice filtering and sorting PowerShell objects?
 
 Continue to:
 
-[Lab 06 --- Filtering and
-Sorting](../labs/lab-06-filtering-and-sorting.md)
+[Lab 06 — Filtering and Sorting](../labs/lesson-06-lab-06-filtering-and-sorting.md)
+
 
 In the lab, you will filter services, processes, and files; practice
 comparison and logical operators; sort objects by different properties;
