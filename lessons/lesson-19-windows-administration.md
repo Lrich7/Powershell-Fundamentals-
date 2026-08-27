@@ -596,8 +596,7 @@ Only after confirming the target should you perform the actual change.
 
 Continue to:
 
-[Lab 19 --- Windows
-Administration](../labs/lab-19-windows-administration.md)
+[Lab 19 — Windows Administration](../labs/lesson-19-lab-19-windows-administration.md)
 
 In the lab, you will collect Windows system information, inspect disks,
 services, processes, networking, event logs, local accounts, and create
