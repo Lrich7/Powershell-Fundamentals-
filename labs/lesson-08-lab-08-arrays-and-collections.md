@@ -465,5 +465,5 @@ and display the first 10 names.
 
 Continue to:
 
-[Lab 08 — Arrays and Collections](../labs/lesson-08-lab-08-arrays-and-collections.md)
+[Lesson 09 — Operators](../lessons/lesson-09-operators.md)
 
