@@ -1249,8 +1249,7 @@ Ready to practice working with PowerShell variables and data types?
 
 Continue to:
 
-[Lab 07 --- Variables and Data
-Types](../labs/lab-07-variables-and-data-types.md)
+[Lab 07 — Variables and Data Types](../labs/lesson-07-lab-07-variables-and-data-types.md))
 
 In the lab, you will create and update variables, store command output,
 inspect data types, work with strings and numbers, practice variable
