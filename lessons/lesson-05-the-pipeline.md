@@ -898,6 +898,20 @@ result.
 
 ------------------------------------------------------------------------
 
+
+
+# 🚀 Project Checkpoint
+
+You have completed Lessons 01–05. Now put those skills together in your first independent PowerShell project.
+
+### [Project 01 — PowerShell System Explorer](../projects/project-01-powershell-system-explorer.md)
+
+Use command discovery, PowerShell Help, objects, and the pipeline to build a useful system exploration tool.
+
+> **Tip:** Unlike the labs, projects provide less step-by-step guidance. Use `Get-Command`, `Get-Help`, and `Get-Member` when you get stuck.
+> 
+------------------------------------------------------------------------
+
 ## Additional Resources
 
 -   [About Pipelines --- Microsoft
