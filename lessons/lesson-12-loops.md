@@ -476,7 +476,7 @@ Collect → Filter → Loop → Act
 
 Continue to:
 
-[Lab 12 --- Loops](../labs/lab-12-loops.md)
+[Lab 12 — Loops](../labs/lesson-12-lab-12-loops.md)
 
 In the lab, you will process arrays and command output with `foreach`,
 use `ForEach-Object`, build counter-based loops, practice `while` and
