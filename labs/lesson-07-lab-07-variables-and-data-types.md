@@ -499,4 +499,5 @@ describing its current status.
 
 Continue to:
 
-[Lab 08 --- Arrays and Collections](lab-08-arrays-and-collections.md)
+[Lesson 08 — Arrays and Collections](../lessons/lesson-08-arrays-and-collections.md)
+
