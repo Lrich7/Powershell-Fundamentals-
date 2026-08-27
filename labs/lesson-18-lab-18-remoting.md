@@ -307,4 +307,5 @@ If you cannot perform the live exercises, answer these instead:
 
 Continue to:
 
-[Lab 19 --- Windows Administration](lab-19-windows-administration.md)
+[Lesson 19 — Windows Administration](../lessons/lesson-19-windows-administration.md)
+
