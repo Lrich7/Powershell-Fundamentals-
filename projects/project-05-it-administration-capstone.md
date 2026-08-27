@@ -412,3 +412,22 @@ Document
 
 Those skills transfer to new PowerShell commands, modules, services, and
 IT environments long after this course is complete.
+
+# 🎓 Course Complete
+
+Congratulations! You have completed the PowerShell Fundamentals training course.
+
+You have progressed from PowerShell basics and command discovery to building scripts, working with Windows administration, Active Directory, Microsoft 365, and automation projects.
+
+## Where to Go Next
+
+Continue practicing by:
+
+- Building your own PowerShell tools
+- Improving the projects from this course
+- Automating repetitive IT tasks in a safe test environment
+- Exploring additional PowerShell modules
+- Learning more about Microsoft Graph and Microsoft 365 automation
+- Building a personal PowerShell script library
+
+> **Keep practicing:** You do not need to memorize every PowerShell command. Knowing how to use `Get-Command`, `Get-Help`, and `Get-Member` gives you the tools to continue learning.
