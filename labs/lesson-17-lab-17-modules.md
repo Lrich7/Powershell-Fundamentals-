@@ -330,4 +330,5 @@ what a manifest is for.
 
 Continue to:
 
-[Lab 18 --- PowerShell Remoting](lab-18-remoting.md)
+[Lesson 18 — Remoting](../lessons/lesson-18-remoting.md)
+
