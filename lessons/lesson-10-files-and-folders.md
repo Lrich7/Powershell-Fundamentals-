@@ -1325,6 +1325,18 @@ performing removal operations.
 
 ------------------------------------------------------------------------
 
+# 🚀 Project Checkpoint
+
+You have completed Lessons 06–10. Now combine your skills with filtering, sorting, variables, arrays, operators, and the filesystem.
+
+### [Project 02 — File & Folder Inventory Tool](../projects/project-02-file-folder-inventory.md)
+
+Build a read-only PowerShell tool that inventories files, analyzes file sizes, filters results, and identifies the largest files in a folder.
+
+> **Tip:** Try solving the requirements using what you have learned before looking for outside examples.
+
+------------------------------------------------------------------------
+
 ## Additional Resources
 
 -   [Get-ChildItem --- Microsoft
