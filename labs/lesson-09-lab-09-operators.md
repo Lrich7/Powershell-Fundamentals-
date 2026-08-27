@@ -507,4 +507,5 @@ is in the approved collection.
 
 Continue to:
 
-[Lab 10 --- Files and Folders](lab-10-files-and-folders.md)
+[Lab 09 — Operators](../labs/lesson-09-lab-09-operators.md)
+
