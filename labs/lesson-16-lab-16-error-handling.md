@@ -288,4 +288,5 @@ Stop or Continue Intentionally
 
 Continue to:
 
-[Lab 17 --- Modules](lab-17-modules.md)
+[Lesson 17 — Modules](../lessons/lesson-17-modules.md)
+
