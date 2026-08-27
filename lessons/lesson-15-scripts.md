@@ -845,6 +845,19 @@ Lessons 01--15 into a small administrative script.
 
 ------------------------------------------------------------------------
 
+# 🚀 Project Checkpoint
+
+You have completed Lessons 11–15. It's time to combine data, loops, conditions, functions, and scripts into a practical IT project.
+
+### [Project 03 — IT Asset Audit Tool](../projects/project-03-it-asset-audit.md)
+
+Build a reusable PowerShell script that imports asset data, identifies important inventory conditions, and generates useful IT reports.
+
+> **Tip:** Think about how functions can break a larger problem into smaller, reusable pieces.
+
+
+------------------------------------------------------------------------
+
 ## Additional Resources
 
 -   [About Scripts --- Microsoft
