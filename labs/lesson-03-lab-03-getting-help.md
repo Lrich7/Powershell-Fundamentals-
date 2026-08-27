@@ -560,4 +560,5 @@ Next, you will inspect what PowerShell commands actually return:
 
 Continue to:
 
-[Lab 04 --- Working with Objects](lab-04-working-with-objects.md)
+[Lesson 04 — Working with Objects](../lessons/lesson-04-working-with-objects.md)
+
