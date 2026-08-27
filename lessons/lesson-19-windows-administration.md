@@ -605,6 +605,18 @@ a small read-only Windows health report.
 
 ------------------------------------------------------------------------
 
+# 🚀 Project Checkpoint
+
+You have completed Lessons 16–19. Now apply error handling, modules, remoting concepts, and Windows administration skills to a realistic support scenario.
+
+### [Project 04 — Windows Health Check Tool](../projects/project-04-windows-health-check.md)
+
+Build a PowerShell troubleshooting tool that collects useful Windows health information and handles failures safely.
+
+> **Tip:** Don't collect information just because you can. Think about what an IT technician would actually need when troubleshooting a computer.
+
+------------------------------------------------------------------------
+
 ## Additional Resources
 
 -   [Get-ComputerInfo --- Microsoft
