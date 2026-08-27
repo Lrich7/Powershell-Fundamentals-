@@ -660,7 +660,7 @@ Commands → Objects → Pipeline
 
 rather than memorizing isolated command syntax.
 
-Continue to:
+###Continue to a Project!:
 
-[Lesson 06 — Filtering and Sorting](../lessons/lesson-06--filtering-and-sorting.md)
+[Project 05 — IT Administration Capstone](../projects/project-05-it-administration-capstone.md)
 
