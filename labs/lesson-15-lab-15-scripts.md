@@ -534,5 +534,9 @@ handling, reusable modules, remoting, and real administrative tooling.
 
 Continue to:
 
-[Lesson 16 — Error Handling](../lessons/lesson-16-error-handling.md)
+### [Project 03 — IT Asset Audit Tool](../projects/project-03-it-asset-audit.md)
+
+Build a reusable PowerShell script that imports asset data, identifies important inventory conditions, and generates useful IT reports.
+
+> **Tip:** Think about how functions can break a larger problem into smaller, reusable pieces
 
