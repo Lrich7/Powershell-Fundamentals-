@@ -379,4 +379,5 @@ Create another report containing only active laptops.
 
 Continue to:
 
-[Lab 12 --- Loops](lab-12-loops.md)
+[Lesson 12 — Loops](../lessons/lesson-12-loops.md)
+
