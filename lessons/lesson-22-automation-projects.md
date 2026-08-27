@@ -994,6 +994,20 @@ documentation.
 
 ------------------------------------------------------------------------
 
+ 🎓 Final Project
+
+You have completed all 22 lessons and are ready to put your PowerShell skills together in the final course project.
+
+### [Project 05 — IT Administration Capstone](../projects/project-05-it-administration-capstone.md)
+
+Choose an Active Directory audit, Microsoft 365 audit, or IT administration toolkit and build a complete PowerShell solution.
+
+Your final project should demonstrate your ability to plan, build, test, troubleshoot, document, and safely automate an IT task.
+
+> **Challenge:** This project provides the least step-by-step guidance. Use everything you have learned throughout the course—including `Get-Command`, `Get-Help`, and `Get-Member`—to find your own solutions.
+
+------------------------------------------------------------------------
+
 ## Additional Resources
 
 -   [PowerShell Documentation --- Microsoft
