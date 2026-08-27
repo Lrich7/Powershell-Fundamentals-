@@ -659,3 +659,8 @@ Commands → Objects → Pipeline
 ```
 
 rather than memorizing isolated command syntax.
+
+Continue to:
+
+[Lesson 06 — Filtering and Sorting](../lessons/lesson-06--filtering-and-sorting.md)
+
