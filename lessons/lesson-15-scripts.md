@@ -836,7 +836,8 @@ reusable workflow.
 
 Continue to:
 
-[Lab 15 --- Scripts](../labs/lab-15-scripts.md)
+[Lab 15 — Scripts](../labs/lesson-15-lab-15-scripts.md)
+
 
 In the lab, you will create and run `.ps1` files, add parameters and
 comments, organize functions and main script logic, use `$PSScriptRoot`,
