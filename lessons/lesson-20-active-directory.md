@@ -645,7 +645,7 @@ access.
 
 Continue to:
 
-[Lab 20 --- Active Directory](../labs/lab-20-active-directory.md)
+[Lab 20 — Active Directory](../labs/lesson-20-lab-20-active-directory.md)
 
 The lab should be completed in an authorized AD DS environment or lab
 domain. It will focus first on read-only discovery: users, groups,
