@@ -433,5 +433,5 @@ You have practiced narrowing and organizing PowerShell data.
 
 Continue to:
 
-[Lab 07 --- Variables and Data
-Types](lab-07-variables-and-data-types.md)
+[Lesson 07 — Variables and Data Types](../lessons/lesson-07-variables-and-data-types.md)
+
