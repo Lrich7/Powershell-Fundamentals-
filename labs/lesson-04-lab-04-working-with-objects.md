@@ -570,4 +570,4 @@ features:
 
 Continue to:
 
-[Lab 05 --- The Pipeline](lab-05-the-pipeline.md)
+[Lesson 05 — The Pipeline](../lessons/lesson-05-the-pipeline.md)
