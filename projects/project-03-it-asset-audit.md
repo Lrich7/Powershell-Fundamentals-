@@ -198,4 +198,6 @@ ____________________________________________________
 
 ## Project Complete
 
-Continue with Lessons 16--19 before beginning Project 04.
+Continue to:
+
+[Lesson 16 — Error Handling](../lessons/lesson-16-error-handling.md)
