@@ -530,3 +530,9 @@ You have completed the first major PowerShell scripting milestone.
 
 The next lessons can build on this script by adding stronger error
 handling, reusable modules, remoting, and real administrative tooling.
+
+
+Continue to:
+
+[Lesson 16 — Error Handling](../lessons/lesson-16-error-handling.md)
+
