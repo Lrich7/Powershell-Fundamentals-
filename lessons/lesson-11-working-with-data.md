@@ -939,7 +939,7 @@ Collect → Filter → Sort → Select → Export
 
 Continue to:
 
-[Lab 11 --- Working with Data](../labs/lab-11-working-with-data.md)
+[Lab 11 — Working with Data](../labs/lesson-11-lab-11-working-with-data.md)
 
 In the lab, you will create custom asset objects, export and import CSV
 data, identify unassigned assets, work with JSON, and build an asset
