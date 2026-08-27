@@ -660,7 +660,7 @@ Commands → Objects → Pipeline
 
 rather than memorizing isolated command syntax.
 
-###Continue to a Project!:
+# 🚀 Continue to a Project!:
 
 [Project 05 — IT Administration Capstone](../projects/project-05-it-administration-capstone.md)
 
