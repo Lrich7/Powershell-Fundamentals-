@@ -648,7 +648,7 @@ Do not begin by trying to build a complicated function all at once.
 
 Continue to:
 
-[Lab 14 --- Functions](../labs/lab-14-functions.md)
+[Lab 14 — Functions](../labs/lesson-14-lab-14-functions.md)
 
 In the lab, you will create basic functions, add parameters and types,
 use mandatory parameters and validation, return custom objects, and turn
