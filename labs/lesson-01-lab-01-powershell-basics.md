@@ -559,4 +559,5 @@ The next lab focuses on an essential PowerShell skill:
 
 Continue to:
 
-[Lab 02 --- Finding Commands](lab-02-finding-commands.md)
+[Lesson 02 — Finding Commands](../lessons/lesson-02-finding-commands.md)
+
