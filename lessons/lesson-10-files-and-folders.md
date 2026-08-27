@@ -1316,7 +1316,8 @@ Ready to practice managing files and folders with PowerShell?
 
 Continue to:
 
-[Lab 10 --- Files and Folders](../labs/lab-10-files-and-folders.md)
+[Lab 10 — Files and Folders](../labs/lesson-10-lab-10-files-and-folders.md)
+
 
 In the lab, you will navigate the file system, create a safe practice
 directory, create and edit files, inspect file objects, copy and move
