@@ -424,4 +424,5 @@ Add `[ValidateRange()]` to prevent invalid values for `Top`.
 
 Continue to:
 
-[Lab 15 --- Scripts](lab-15-scripts.md)
+[Lesson 15 — Scripts](../lessons/lesson-15-scripts.md)
+
