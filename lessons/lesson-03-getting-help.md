@@ -593,7 +593,7 @@ Ready to practice using the PowerShell Help system?
 
 Continue to:
 
-[Lab 03 --- Getting Help](../labs/lab-03-getting-help.md)
+[Lab 03 — Getting Help](../labs/lesson-03-lab-03-getting-help.md)
 
 In the lab, you will practice reading Help pages, finding examples,
 investigating parameters, searching Help topics, and using PowerShell's
