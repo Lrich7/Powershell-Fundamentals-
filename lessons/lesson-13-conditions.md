@@ -496,7 +496,8 @@ Readable scripts are easier to troubleshoot and maintain.
 
 Continue to:
 
-[Lab 13 --- Conditions](../labs/lab-13-conditions.md)
+[Lab 13 — Conditions](../labs/lesson-13-lab-13-conditions.md)
+
 
 In the lab, you will build `if`, `elseif`, and `else` statements,
 combine operators, test paths and object properties, use `switch`, and
